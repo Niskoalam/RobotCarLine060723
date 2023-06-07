@@ -173,6 +173,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KSGKVMIE
 
+[Parameter1]
+Name=VersionProject
+Value=V1.0
+
+[Parameter2]
+Name=Company
+Value=(c) 2023 Niskoalam Huynh
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
