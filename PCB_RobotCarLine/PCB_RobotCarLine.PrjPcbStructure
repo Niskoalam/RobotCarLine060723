@@ -1,1 +1,5 @@
-Record=TopLevelDocument|FileName=mainDiagram.SchDoc
+Record=TopLevelDocument|FileName=mainDiagram.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=mainDiagram.SchDoc|Designator=U_SheetMotor|SchDesignator=U_SheetMotor|FileName=SheetMotor.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=SheetMotor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=mainDiagram.SchDoc|Designator=U_SheetPowerMesh|SchDesignator=U_SheetPowerMesh|FileName=SheetPowerMesh.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=SheetPowerMesh.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=mainDiagram.SchDoc|FileName=SheetMicrocontroller.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=mainDiagram.SchDoc|FileName=SheetSensor.SchDoc|SheetNumber=3
